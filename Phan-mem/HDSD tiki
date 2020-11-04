@@ -1,1 +1,33 @@
 #Đối soát tiki
+
+## Tiki áp dụng các loại phí như sau đối với Nhà Bán Hàng:
+
+### I.Phí gian hàng
+
+- Là các loại phí được tính khi Nhà Bán Hàng khởi tạo và vận hành gian hàng bao gồm: Phí duy trì gian hàng và Phí nâng cấp gian hàng.
+
+- Phí duy trì cửa hàng: 0 đồng
+
+- Phí nâng cấp cửa hàng: chưa áp dụng
+
+### II. Phí bán hàng 
+
+- Là các loại phí mà Tiki áp dụng khi xử lý các đơn hàng bao gồm: Phí chiết khấu, Phí thanh toán, Phí cố định, Phí trả góp.
+
+- Phí thanh toán: 1%/ sản phẩm
+
+- Phí quản lý hoạt động trả góp: 3%/ sản phẩm
+
+- Phí cố định, Phí chiết khấu
+
+### III. Phí vận hành
+
+- Là các loại phí được áp dụng khi Nhà Bán Hàng sử dụng dịch vụ vận hành của Tiki bao gồm: Phí lấy hàng, Phí lưu kho, Phí lưu kho quá hạn, Phí trả hàng, Phí xử lý đổi - trả - bảo hành, Phí hoàn hàng, Phí hỗ trợ nhập hàng.
+
+### IV. Phí phạt
+
+- Là các loại phí được áp dụng khi Nhà Bán Hàng không tuân thủ theo quy định, chính sách đã ban hành của Tiki hay khi khách hàng khiếu nại về chất lượng dịch vụ cung cấp cho khách hàng được xác minh do lỗi Nhà Bán Hàng hoặc Nhà Bán Hàng không đưa ra được thông tin chính minh xác đáng.
+
+# Mô hình lưu kho Tiki (FBT) và Mô hình qua kho Tiki (ODF)
+
+![](https://storage.googleapis.com/manual.nhanh.vn/bang%20gia.jpg)
